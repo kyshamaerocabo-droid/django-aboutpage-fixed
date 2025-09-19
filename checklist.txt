@@ -1,0 +1,5 @@
+Python version: 3.13.7
+Virtual environment: Active (.venv)
+Django version: 5.1
+Runserver: Working at http://127.0.0.1:8000/
+Git remote: Set to https://github.com/kyshamaerocabo-droid/django-aboutpage-fixed
